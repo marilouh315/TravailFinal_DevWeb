@@ -1,0 +1,20 @@
+/*
+Theme Name: Maril Child - TP Final
+Template: hestia
+Author: Marilou Héon
+Description: Thème enfant du thème parent "Hestia". Modifications du thème enfant pour le projet long de Développement Web 2.
+Tags: blog,custom-logo,portfolio,e-commerce,rtl-language-support,post-formats,grid-layout,one-column,two-columns,custom-background,custom-colors,custom-header,custom-menu,featured-image-header,featured-images,flexible-header,full-width-template,sticky-post,theme-options,threaded-comments,translation-ready,editor-style,footer-widgets,left-sidebar,right-sidebar,wide-blocks
+Version: 1.1
+Updated: 2023-12-01 16:16:20
+
+*/
+
+.footer_custom {
+    background-color: #333;
+    border: none;
+    color: #fff;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
